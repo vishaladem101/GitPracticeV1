@@ -1,5 +1,1 @@
 Practicing Git and Github
-Updating the file
-Update new text
-New Text
-New Text 2
